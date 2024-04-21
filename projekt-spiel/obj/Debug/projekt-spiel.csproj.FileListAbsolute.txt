@@ -1,0 +1,8 @@
+C:\Users\rmmal\Documents\SharpDevelop Projects\projekt-spiel\projekt-spiel\bin\Debug\projekt-spiel.exe.config
+C:\Users\rmmal\Documents\SharpDevelop Projects\projekt-spiel\projekt-spiel\bin\Debug\projekt-spiel.exe
+C:\Users\rmmal\Documents\SharpDevelop Projects\projekt-spiel\projekt-spiel\bin\Debug\projekt-spiel.pdb
+C:\Users\rmmal\Documents\SharpDevelop Projects\projekt-spiel\projekt-spiel\obj\Debug\projekt-spiel.csprojResolveAssemblyReference.cache
+C:\Users\rmmal\Documents\SharpDevelop Projects\projekt-spiel\projekt-spiel\obj\Debug\projekt-spiel.exe
+C:\Users\rmmal\Documents\SharpDevelop Projects\projekt-spiel\projekt-spiel\obj\Debug\projekt-spiel.pdb
+C:\Users\rmmal\Documents\SharpDevelop Projects\projekt-spiel\projekt-spiel\obj\Debug\projekt_spiel.MainForm.resources
+C:\Users\rmmal\Documents\SharpDevelop Projects\projekt-spiel\projekt-spiel\obj\Debug\projekt-spiel.csproj.GenerateResource.Cache
